@@ -13,4 +13,4 @@ plt.plot(t, ganadas)
 
 plt.plot(t, repe)
 
-plt.show()
+plt.savefig('album.png')
